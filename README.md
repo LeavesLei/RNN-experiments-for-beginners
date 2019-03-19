@@ -15,4 +15,4 @@
 - https://keras.io/zh/layers/recurrent/
 
 
-### If the repository have help you, just give me a smile😀
+### If the repository ha help you, just give me a smile😀
