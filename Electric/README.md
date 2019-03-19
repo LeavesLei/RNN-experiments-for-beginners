@@ -8,4 +8,4 @@ computer/television, dishwasher, fridge, heater, kettle, oven and washing machin
 - 说得再详细也只比不上亲自动手。所以请按照[Knowing_dataset.ipynb](https://github.com/LeavesLei/RNN-experiments-for-beginners/blob/master/Electric/Knowing_dataset.ipynb)逐步操作来了解数据集
 
 ### 网络结构
-Power Consumption(INPUT) ——> RNN ——> RNN ——> Class(OUTPUT)
+Power Consumption(INPUT) ——> RNN ——> RNN ——> Dense ——> Class(OUTPUT)
