@@ -2,6 +2,7 @@
 - If you want the English edition, please go [here](https://upc-mai-dl.github.io/rnn-lab-guided/).
 - 在UPC-FIB交流期间选了Deep Learning这门课，课上有关于RNN的内容与实验。正好自己之前也没接触过RNN，正好将课上的一些RNN实验整理一下。
 - 如何使用此repository？ 刷一遍RNN（Basic RNN，LSTM，GRU等）的理论，就可以使用来做这里面的实验了。
+- 英文实验说明：[ guided laboratory of the RNN topic](https://upc-mai-dl.github.io/rnn-lab-guided/)
 - 实验源码来自于[Javier Bejar](bejar@cs.upc.edu)先生。
 
 ## Some confusion I had met
