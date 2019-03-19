@@ -4,7 +4,7 @@
 - 如何使用此repository？ 刷一遍RNN（Basic RNN，LSTM，GRU等）的理论，就可以使用来做这里面的实验了。
 - **英文实验说明：[ guided laboratory of the RNN topic](https://upc-mai-dl.github.io/rnn-lab-guided/)** （懒得翻译...所以强烈建议看看原版实验说明）
 - 实验源码来自于[Javier Bejar](bejar@cs.upc.edu)先生
-- 如果你觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com). 毕设闲暇之余弄的这个repo，很多地方只了个大概
+- 如果你觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com). 毕设闲暇之余弄的这个repo，很多地方只写了个大概
 
 ## Some confusion I had met
 - LSTM中lag代表什么？ lag代表输入的数量。例如用前6天的天气预测当天的天气，那么lag=6（前6天的天气），ahead=1（当天的天气）。若预测今明两天的天气，则ahead=2。
