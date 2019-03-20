@@ -9,6 +9,5 @@
 - 关注参数return_sequences（默认为False）。思考为什么有时候要置为True。
 
 #### 相关论文
-- [Learning to Execute](http://arxiv.org/abs/1410.4615)
-- [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-供进一步了解这个task和seq2seq
+- [Learning to Execute](http://arxiv.org/abs/1410.4615)   进一步了解此task
+- [Sequence to Sequence Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)    进一步了解seq2seq
