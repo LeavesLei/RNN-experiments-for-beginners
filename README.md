@@ -22,6 +22,7 @@ repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单
 - 如何查看自己搭建的RNN网络结构：**model.summary()** 会自动打印出来。
 
 ## References
+- https://upc-mai-dl.github.io/rnn-lab-guided/
 - https://keras.io/zh/layers/recurrent/
 
 ## Wait to do
