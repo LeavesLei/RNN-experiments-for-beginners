@@ -6,6 +6,10 @@
 - 如何使用此repository？ 刷一遍RNN（Basic RNN，LSTM，GRU等）的理论，就可以使用来做这里面的实验了。
 - 毕设闲暇之余弄的这个repo，很多地方只写了个大概，肯定有些疏漏。如果觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com)。
 
+## Requirements
+- python3 with Keras
+- jupyter notebook
+
 ## How to Use?
 repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单独下载），涵盖了以下几个基本方面：
 - [Time series prediction as regression](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/AirQuality)
