@@ -7,6 +7,7 @@
 #### TIPS
 - 可以使用model.summary()打印出网络结构与参数数量，自己推一下。
 - 关注参数return_sequences（默认为False）。思考为什么有时候要置为True。
+- 这篇文章讲了Encoder-Decoder基本实现，讲得还可以[seq2seq 的 keras 实现](https://www.jianshu.com/p/c294e4cb4070)
 
 #### 相关论文
 - [Learning to Execute](http://arxiv.org/abs/1410.4615)   进一步了解此task
