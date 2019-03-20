@@ -6,6 +6,15 @@
 - 实验源码来自于[Javier Bejar](bejar@cs.upc.edu)先生
 - 如果你觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com). 毕设闲暇之余弄的这个repo，很多地方只写了个大概
 
+## How to Use?
+repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单独下载），涵盖了以下几个基本方面：
+- [Time series prediction as regression](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/AirQuality)
+- [series prediction as classification](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/Electric)
+- [Sentiment analysis](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/Sentiment)
+- Text generation as character level prediction
+- Sequence to sequence prediction
+
+建议先运行Knowing_dataset.ipynb文件了解数据集结构。然后运行.py开始训练。
 ## Some confusion I had met
 - LSTM中lag代表什么？ lag代表输入的数量。例如用前6天的天气预测当天的天气，那么lag=6（前6天的天气），ahead=1（当天的天气）。若预测今明两天的天气，则ahead=2。
 - Keras中LSTM的输入尺寸：(batch_size, timesteps, input_dim)
