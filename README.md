@@ -26,4 +26,4 @@ repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单
 - https://keras.io/zh/layers/recurrent/
 
 
-### If the repository ha help you, just give me a smile😀
+### If the repository ha help you, just give me a smile:)
