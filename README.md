@@ -4,8 +4,7 @@
 
 - **英文实验说明：[ guided laboratory of the RNN topic](https://upc-mai-dl.github.io/rnn-lab-guided/)** （懒得翻译...所以强烈建议看看原版实验说明）
 - 如何使用此repository？ 刷一遍RNN（Basic RNN，LSTM，GRU等）的理论，就可以使用来做这里面的实验了。
-- 如果你觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com). 毕设闲暇之余弄的这个repo，很多地方只写了个大概
-- 具体实验说明还未翻译，如果有NLP爱好者且有余力，欢迎完善此仓库，联系方式同上
+- 毕设闲暇之余弄的这个repo，很多地方只写了个大概，肯定有些疏漏。如果觉得哪里写得不够清楚，或者有问题，请告诉我[leishiye@gmail.com](leishiye@gmail.com)。
 
 ## How to Use?
 repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单独下载），涵盖了以下几个基本方面：
@@ -25,5 +24,7 @@ repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单
 ## References
 - https://keras.io/zh/layers/recurrent/
 
+## Wait to do
+- 具体实验说明的翻译
 
 ### If the repository ha help you, just give me a smile:)
