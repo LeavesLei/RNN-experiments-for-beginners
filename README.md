@@ -11,7 +11,7 @@ repo中一共有5个基本的RNN实验（数据集已经包括在内，无需单
 - [Time series prediction as regression](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/AirQuality)
 - [series prediction as classification](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/Electric)
 - [Sentiment analysis](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/Sentiment)
-- Text generation as character level prediction
+- [Text generation as character level prediction](https://github.com/LeavesLei/RNN-experiments-for-beginners/tree/master/TextGeneration)
 - Sequence to sequence prediction
 
 建议先运行Knowing_dataset.ipynb文件了解数据集结构。然后运行.py开始训练。
